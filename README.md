@@ -26,4 +26,19 @@ Características Principales:
 - Análisis de los datos (incluir gráficas significativas).
 - Comparar distintos DataFrames para responder los preguntas del cliente. 
 Resultados: Entre los resultados más relevantes de este proyecto fue que existían valores ausentes los cuales no fueron capturados adecuadamente y esto produjo que 70 pedidos contarán con más de 64 productos llegando a un máximo de 127, dichos valores no eran visibles con la funcion isna, por lo cual se hicieron filtros para verificarlos.
-Además, comparando dos días de la semana se logro visualizar en las gráficas que el miércoles y el sábado a partir de las 9 am hasta las 16 pm, las ventas son muy similares. Los clientes tienden a hacer pedidos de 1 a 6 en un rango de 1 a 30 días y con un rango de 1 hasta 10 prductos, siendo estas cantidades la media de toda la población. 
+Además, comparando dos días de la semana se logro visualizar en las gráficas que el miércoles y el sábado a partir de las 9 am hasta las 16 pm, las ventas son muy similares. Los clientes tienden a hacer pedidos de 1 a 6 en un rango de 1 a 30 días y con un rango de 1 hasta 10 prductos, siendo estas cantidades la media de toda la población.
+
+🛠️ Habilidades
+Lenguajes de Programación: Python
+Análisis de Datos: pandas, numpy
+Visualización de Datos: matplotlib, seaborn
+Bases de Datos: MySQL
+
+📈 Competencias
+Limpieza y Preparación de Datos
+Visualización y Reporte de Datos
+
+
+📫 Contacto
+Correo Electrónico: hectorcidps@gmail.com
+LinkedIn: https://www.linkedin.com/in/hector-cid-del-prado/
