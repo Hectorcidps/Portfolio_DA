@@ -1,10 +1,13 @@
 📊📈 Proyectos de Análisis de Datos 📉📊
+
 ¡Bienvenido a mi repositorio de GitHub! Aquí encontrarás una colección de mis proyectos de análisis de datos que muestran mis habilidades y competencias en el campo del análisis de datos. ¡Siéntete libre de explorar y darme tu opinión!
 
 🔍 Sobre mí
+
 Soy un aspirante a Analista de Datos con pasión por contar historias a través de los datos. Mi experiencia incluye Python, MySQL, Excel, Pandas, y he trabajado con varios conjuntos de datos para realizar análisis significativos y conclusiones relevantes.
 
 🚀 Proyectos
+
 1. Dejame escuchar la musica 💿📀
 Descripción: Este es le primer proyecto que desarrollo con Python, en el cual debia aceptar o rechazar la hipótesis "La actividad de los usuarios y las usuarios difieren según día de la semana", esto a partir de un pre-procesamiento de datos.
 Tecnologías Utilizadas: Python, pandas.
