@@ -128,7 +128,7 @@ El análisis de rentabilidad por género mostró que los juegos de Acción, Depo
 
 Finalmente, la correlación entre clasificaciones y ventas fue en su mayoría negativa y débil. En cuanto a las hipótesis, se encontraron diferencias significativas en las calificaciones de usuarios entre Xbox One y PC, mientras que no hubo diferencias significativas entre los géneros de Acción y Deportes, ambos líderes en rentabilidad.
 
-Enlace al proyecto: [Enlace al Repositorio en GitHub]
+Enlace al proyecto: [Enlace al Repositorio en GitHub](https://github.com/Hectorcidps/Portfolio_DA/blob/master/Analisis%20videojuegos.ipynb)
 
 🛠️ Tecnologías implementadas
 Lenguajes de Programación: Python
