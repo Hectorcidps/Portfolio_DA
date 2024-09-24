@@ -4,7 +4,7 @@
 
 🔍 Sobre mí
 
-Soy un aspirante a Analista de Datos con pasión por contar historias a través de los datos. Mi experiencia incluye Python, MySQL, Excel, Pandas, y he trabajado con varios conjuntos de datos para realizar análisis significativos y conclusiones relevantes.
+Soy un aspirante a Analista de Datos con pasión por contar historias a través de los datos. Mi experiencia incluye Python, SQL, Excel, Pandas, y he trabajado con varios conjuntos de datos para realizar análisis significativos y conclusiones relevantes.
 
 🚀 Proyectos
 
@@ -31,7 +31,6 @@ Análisis de Datos: pandas
 📈 Competencias
 Limpieza y Preparación de Datos
 Visualización y Reporte de Datos
-Comprobación de hipótesis mediante pruebas estadísticas 
 
 
 2. ¡Llena ese carrito! 🛒🛒 
@@ -65,7 +64,7 @@ Visualización y Reporte de Datos
 Comprobación de hipótesis mediante pruebas estadísticas 
 
 
-3. ¿Cuál es la mejor tarifa? 🤔💲💸
+3. ¿Cuál es la mejor tarifa? 🤔💲📱
 
 Descripción:
 
@@ -75,11 +74,11 @@ Características Principales:
 
 El objetivo es analizar el comportamiento de los clientes, saber quiénes son los clientes, de dónde son, qué tarifa usan, así como la cantidad de llamadas que hicieron, los mensajes de texto que enviaron y la cantidad de GB usados en 2018. Por otra parte, es necesario determinar qué tarifa de prepago genera más ingresos. Determinar a través de pruebas estadísticas qué plan, en promedio, aporta más ingresos. Por último, comprobar las siguientes hipótesis acerca de los planes:
 
-Hipótesis 1 sobre la diferencia en los ingresos por plan
+* Hipótesis 1 sobre la diferencia en los ingresos por plan
 H0: No existe una diferencia significativa entre las medias de los ingresos promedio de cada uno de los planes.
 H1: Existe una diferencia significativa entre las medias de los ingresos promedio de cada uno de los planes.
 
-Hipótesis 2 sobre la diferencia entre zonas en las que viven los diferentes usuarios:
+* Hipótesis 2 sobre la diferencia entre zonas en las que viven los diferentes usuarios:
 H0: No existen diferencias significativas en los ingresos promedio de los usuarios del área de NY-NJ en comparación con los demás.
 H1: Existen diferencias significativas en los ingresos promedio de los usuarios del área de NY-NJ en comparación con los demás.
 
@@ -113,15 +112,16 @@ Características Principales:
 
 El objetivo es analizar cuales consolas y generos son los mas rentables, posteriormente analizar las ventas y describir el porcentaje de cuotas en el mercado acorde a cada consola, esto permitira crear perfiles de preferencias para cada region y lograr desarrollar una estrategia de marketing ideal, disminuyendo las perdidas y aumentando las ganacias.
 
-Hipótesis 1:  Las calificaciones promedio de los usuarios para las plataformas Xbox One y PC son las mismas
+* Hipótesis 1:  Las calificaciones promedio de los usuarios para las plataformas Xbox One y PC son las mismas
 H0: No existen diferencias entre las calificaciones promedio de los usuarios para las plataformas Xbox One y PC
 H1: Existen diferencias entre las calificaciones promedio de los usuarios para las plataformas Xbox One y PC
 
-Hipótesis 2: Las calificaciones promedio de los usuarios para los géneros de Acción y Deportes son diferentes.
+* Hipótesis 2: Las calificaciones promedio de los usuarios para los géneros de Acción y Deportes son diferentes.
 H0: No existen diferencias entre las calificaciones promedio de los usuarios para los géneros de Acción y Deportes
 H1: Existen diferencias entre las calificaciones promedio de los usuarios para los géneros de Acción y Deportes
 
 Resultados:
+
 Los resultados revelaron que las mejores ventas de videojuegos ocurrieron en 2008 y 2009, con la PS2, Xbox 360 y PS3 como las plataformas más rentables. Para proyectar las tendencias de 2017, se analizaron datos desde 2012, identificando a la PS4 y Xbox One como las más rentables, en contraste con la 3DS y PS3, cuyas ventas disminuyeron.
 
 El análisis de rentabilidad por género mostró que los juegos de Acción, Deportes y Shooter son los más rentables, mientras que Estrategia, Aventura y Puzzle son los menos. En la región de NA, Xbox 360 y Wii lideran con preferencias similares a EU, pero con Racing como un género destacado aunque menos rentable. En JP, 3DS, DS y SNES son las líderes, con Aventura y Lucha como géneros populares pero poco rentables.
@@ -140,6 +140,54 @@ Limpieza y Preparación de Datos
 Visualización y Reporte de Datos
 Comprobación de hipótesis mediante pruebas estadísticas 
 
+
+
+5. Empresas de taxis y viajes promedio realizados 🚕🚕
+
+Descripción:
+
+- Primer parte del proyecto, desarrollado con SQL:
+Una empresa de viajes compartidos en Chicago, necesita que se encuentren los patrones de información disponible para comprender las preferencias de los pasajeros y el impacto de los factores externos en los viajes.
+- Segunda parte del proyecto desarrollado con Python:
+A partir de 3 tablas obtenidas con SQL realizar un análisis enfocados en identificar tendencias clave, como los barrios y las empresas con mayor número de viajes concluidos. Verificación y eliminación de outliers para asegurar resultados precisos en la comprobación de la hipótesis, la cual consiste en saber si existe una relación entre la duración de los viajes con el clima de la ciudad.
+
+
+Características Principales:
+
+- Extracción de datos: implementando el método GET en Python y la librería BeautifulSoup para navegar en el HTML y extraer datos relevantes.
+
+- SQL: Limpiar los datos utilizando SQL, usando comandos básicos como SELECT, FROM, WHERE, así como funciones más avanzadas como HAVING, OVER, subconsultas (subqueries), y JOINS. También eliminar valores duplicados y ausentes para mantener la integridad del análisis.
+
+- Análisis en Python: Con las tres tablas realizar un análisis en Python, centrado en:
+
+a. Identificar los 10 barrios con mayor número de viajes concluidos.
+b. Determinar las 10 empresas con mayor número de viajes.
+c. Detectar y eliminar outliers para evitar sesgos en los resultados.
+d. Comprobar una hipótesis sobre el impacto del clima en la duración de los viajes.
+
+* Hipótesis: La duración promedio de los viajes desde el Loop hasta el Aeropuerto Internacional O'Hare cambia los sábados lluviosos
+H0: La duración promedio de los viajes desde el Loop hasta el Aeropuerto Internacional O'Hare NO cambia en los sábados lluviosos
+H1: La duración promedio de los viajes desde el Loop hasta el Aeropuerto Internacional O'Hare cambia en los sábados lluviosos
+
+Resultados:
+
+Con este análisis se lograron identificar que los barrios Loop, River North, Streeterville y West Loop, son los que cuentan con mejores promedios en su finalización de viajes, aunque se encontraron otros 6 barrios más, estos tienen un promedio muy bajo comparado con los antes mencionados. Por la parte de las empresas con mayores números de viajes realizados, se encontró que Flash Cab es el que tiene un domino en la zona donde se realizó el análisis, sin embargo, existen otras empresas ubicadas en el top 10 pero estas cuentan con un promedio similar tal es el caso de Yellow Cab y Sun Taxi las cuales tienen un promedio de 10,000 viajes concluidos.
+
+En cuanto a la hipótesis se puede mencionar, que para comprobarla se realizó una prueba T de Student para muestras independientes y además se realizó una prueba de Levene para comprobar que las varianzas de los datos fuera igual, así pues de acuerdo a los datos, se concluyo que existen diferencias significativas en el promedio de tiempo de los viajes los días sábados lluviosos, es decir, que en presencia de lluvia el tiempo de duración tiende a cambiar en comparación a los dias que no hay presencia de lluvia. 
+
+Enlace al proyecto: [Enlace al Repositorio en GitHub](https://github.com/Hectorcidps/Portfolio_DA/blob/master/Proyecto%20sql%20y%20python/Empresas%20de%20taxis.ipynb)
+
+🛠️ Tecnologías implementadas
+Lenguajes de Programación: Python
+Extracción de datos: librería BeautifulSoup 
+Preparación de los datos: SQL 
+Análisis de Datos: pandas, numpy, scipy
+Visualización de Datos: matplotlib, seaborn
+
+📈 Competencias
+Limpieza y Preparación de Datos
+Visualización y Reporte de Datos
+Comprobación de hipótesis mediante pruebas estadísticas 
 
 📫 Contacto
 Correo Electrónico: hectorcidps@gmail.com
