@@ -207,7 +207,7 @@ Un hallazgo importante es que el canal 9 podría ser una excelente opción para 
 
 Los resultados demuestran la importancia de reasignar el presupuesto a los canales que ofrecen mejores retornos, como el canal 9, y reducir la inversión en aquellos que están causando pérdidas. La empresa esta presentando perdidas aun cuando el numero de visitantes, el numero de sesiones activas y el porcentaje de tasa de conversion son altas en algunos canales.
 
-Enlace al proyecto: [Enlace al Repositorio en GitHub]()
+Enlace al proyecto: [Enlace al Repositorio en GitHub](https://github.com/Hectorcidps/Portfolio_DA/blob/master/Optimizar%20gastos%20de%20marketing.ipynb)
 
 🛠️ Tecnologías implementadas
 Lenguajes de Programación: Python
