@@ -244,7 +244,7 @@ Con los datos filtrados (eliminando valores atípicos), el grupo B mostró una g
 
 En conclusión, sería recomendable continuar con la prueba, ya que esto podría ayudar a identificar si el grupo B consolida su desempeño en ambas métricas (conversión y tamaño de pedido).
 
-Enlace al proyecto: [Enlace al Repositorio en GitHub]()
+Enlace al proyecto: [Enlace al Repositorio en GitHub](https://github.com/Hectorcidps/Portfolio_DA/blob/master/Experimento%20A%20B.ipynb)
 
 🛠️ Tecnologías implementadas
 Lenguajes de Programación: Python
