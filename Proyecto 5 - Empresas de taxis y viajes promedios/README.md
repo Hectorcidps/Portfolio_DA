@@ -14,10 +14,10 @@ A partir de 3 tablas obtenidas con SQL realizar un análisis enfocados en identi
 
 3. Análisis en Python: Con las tres tablas realizar un análisis en Python, centrado en:
 
-a. Identificar los 10 barrios con mayor número de viajes concluidos.
-b. Determinar las 10 empresas con mayor número de viajes.
-c. Detectar y eliminar outliers para evitar sesgos en los resultados.
-d. Comprobar una hipótesis sobre el impacto del clima en la duración de los viajes.
+* Identificar los 10 barrios con mayor número de viajes concluidos.
+* Determinar las 10 empresas con mayor número de viajes.
+* Detectar y eliminar outliers para evitar sesgos en los resultados.
+* Comprobar una hipótesis sobre el impacto del clima en la duración de los viajes.
 
 ### Hipótesis:
 * Hipótesis: La duración promedio de los viajes desde el Loop hasta el Aeropuerto Internacional O'Hare cambia los sábados lluviosos

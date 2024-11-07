@@ -1,4 +1,4 @@
-## Proyecto 7 - Experimento A/B 🧪🧪  
+# Proyecto 7 - Experimento A/B 🧪🧪  
 
 ## Descripción: 
 Una gran tienda online ha recopilado una lista de hipótesis que pueden ayudar a aumentar los ingresos. El objetivo es priorizar estas hipótesis, lanzar un test A/B y analizar los resultados. 
