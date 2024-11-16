@@ -69,7 +69,7 @@ Enlace al proyecto: [Enlace al Repositorio en GitHub](https://github.com/Hectorc
 
 
 ## 📫 Contacto
-* Correo Electrónico: hectorcidps@gmail.com
-* Número: 5531398543
+* 📧 hectorcidps@gmail.com
+* 📱 5531398543
 * [![Linkedin Badge](https://img.shields.io/badge/-Hector-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hector-cid-del-prado/)
-* 
+* [![Descargar CV](https://img.shields.io/badge/Descargar%20CV-PDF-orange?style=for-the-badge&logo=adobe&logoColor=white)](https://github.com/Hectorcidps/Portfolio_DA/raw/master/z_documents/Data%20analyst_Hector%20Cid.pdf)
