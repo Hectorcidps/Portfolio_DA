@@ -74,8 +74,18 @@ Enlace al proyecto: [Enlace al Repositorio en GitHub](https://github.com/Hectorc
 Este proyecto analizó más de 244,000 eventos para entender el flujo de interacción de los usuarios y evaluar un experimento A/A/B. Se construyó un embudo de conversión, identificando etapas clave de pérdida de usuarios y oportunidades de optimización. Además, se aplicaron pruebas estadísticas como el puntaje Z y la prueba U de Mann-Whitney, confirmando que los grupos analizados tenían distribuciones similares.
 Enlace al proyecto: [Enlace al Repositorio en GitHub](https://github.com/Hectorcidps/Portfolio_DA/tree/master/Proyecto%208%20-%20Comportamiento%20del%20usuario%20en%20una%20app%20de%20productos)
 
+
+## 9. Tendencias de videos en YouTube 🎥 🎥
+
+### Descripción:
+En la agencia publicitaria Sterling & Draper solicitan automatizar el análisis de tendencias de videos en YouTube. A partir de un dashboard interactivo, el cual permita explorar las categorías de videos populares, su distribución por región y el desempeño destacado en Estados Unidos.
+
+* Enlace al proyecto: [Enlace al Repositorio en GitHub](https://github.com/Hectorcidps/Portfolio_DA/tree/master/Proyecto%209%20-%20Tendencias%20de%20videos%20en%20YT) 
+* Enlace al dashboard: [Tableau Public](https://public.tableau.com/app/profile/hector.cid5140/viz/TendenciasdevideosenYTporreginycategora/TendenciasdeVideo#3)
+
+
 ## 📫 Contacto
 * 📧 hectorcidps@gmail.com
 * 📱 5531398543
 * [![Linkedin Badge](https://img.shields.io/badge/-Hector-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hector-cid-del-prado/)
-* [![Descargar CV](https://img.shields.io/badge/Descargar%20CV-PDF-orange?style=for-the-badge&logo=adobe&logoColor=white)](https://github.com/Hectorcidps/Portfolio_DA/raw/master/z_documents/Data%20analyst_Hector%20Cid.pdf)
+* [![Descargar CV](https://img.shields.io/badge/Descargar%20CV-PDF-orange?style=for-the-badge)](https://github.com/Hectorcidps/Portfolio_DA/raw/master/z_documents/Data%20analyst_Hector%20Cid.pdf)
