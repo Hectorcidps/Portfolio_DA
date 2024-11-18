@@ -68,6 +68,12 @@ Una gran tienda online ha recopilado una lista de hipótesis que pueden ayudar a
 Enlace al proyecto: [Enlace al Repositorio en GitHub](https://github.com/Hectorcidps/Portfolio_DA/tree/master/Proyecto%207%20-%20Experimento%20A%20B)
 
 
+## 8. Comportamiento del usuario en una app de productos 👩🧑🍎🛒
+
+### Descripción: 
+Este proyecto analizó más de 244,000 eventos para entender el flujo de interacción de los usuarios y evaluar un experimento A/A/B. Se construyó un embudo de conversión, identificando etapas clave de pérdida de usuarios y oportunidades de optimización. Además, se aplicaron pruebas estadísticas como el puntaje Z y la prueba U de Mann-Whitney, confirmando que los grupos analizados tenían distribuciones similares.
+Enlace al proyecto: [Enlace al Repositorio en GitHub]()
+
 ## 📫 Contacto
 * 📧 hectorcidps@gmail.com
 * 📱 5531398543
