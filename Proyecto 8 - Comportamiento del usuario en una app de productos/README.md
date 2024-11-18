@@ -40,18 +40,18 @@ Para identificar la frecuencia de eventos fue necesario construir un embudo, en 
 
 El siguiente paso consistió en calcular las proporciones de los usuarios que realizaron al menos una acción, obteniendo los siguientes resultados:
 
-El 98.47% de los usuarios ingresaron a la página principal.
-El 60.96% ingresaron a la página de ofertas.
-El 49.56% ingresaron a la página del carrito.
-Finalmente, el 46.97% completó el pago.
+* El 98.47% de los usuarios ingresaron a la página principal.
+* El 60.96% ingresaron a la página de ofertas.
+* El 49.56% ingresaron a la página del carrito.
+* Finalmente, el 46.97% completó el pago.
 
 No obstante, las acciones no siempre ocurren en la secuencia esperada. Al ordenar los datos por usuario y evento, se observó que la gran mayoría no sigue el orden esperado, ya que algunos pasan directamente de la página principal al carrito o a la compra. Para calcular de manera precisa cuántos usuarios cumplen con las etapas establecidas, se analizó una secuencia de pasos y se identificó en qué etapa se pierden más usuarios:
 
-Visitantes iniciales: 7,419.
-Vió página de ofertas: 4,593 usuarios iniciales / 4,201 usuarios que continuaron / 392 usuarios perdidos.
-Agregó un producto al carrito: 3,734 usuarios iniciales / 1,767 usuarios que continuaron / 1,967 usuarios perdidos.
-Pagó: 3,539 usuarios iniciales / 454 usuarios que continuaron / 3,085 usuarios perdidos.
-Vió Tutorial: 840 usuarios iniciales / 1 usuario que continuó / 839 usuarios perdidos.
+* Visitantes iniciales: 7,419.
+* Vió página de ofertas: 4,593 usuarios iniciales / 4,201 usuarios que continuaron / 392 usuarios perdidos.
+* Agregó un producto al carrito: 3,734 usuarios iniciales / 1,767 usuarios que continuaron / 1,967 usuarios perdidos.
+* Pagó: 3,539 usuarios iniciales / 454 usuarios que continuaron / 3,085 usuarios perdidos.
+* Vió Tutorial: 840 usuarios iniciales / 1 usuario que continuó / 839 usuarios perdidos.
 
 Por último, se comprobó si existía una diferencia entre las proporciones de las muestras de los dos grupos de control a partir del total de usuarios y el número de casos de éxito. Se calculó el puntaje Z, obteniendo un p-value de 0.14 con un nivel de significancia de 0.05. Esto indica que no se puede rechazar la hipótesis nula, por lo que no hay razones para pensar que las proporciones son diferentes.
 

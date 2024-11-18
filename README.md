@@ -72,7 +72,7 @@ Enlace al proyecto: [Enlace al Repositorio en GitHub](https://github.com/Hectorc
 
 ### Descripción: 
 Este proyecto analizó más de 244,000 eventos para entender el flujo de interacción de los usuarios y evaluar un experimento A/A/B. Se construyó un embudo de conversión, identificando etapas clave de pérdida de usuarios y oportunidades de optimización. Además, se aplicaron pruebas estadísticas como el puntaje Z y la prueba U de Mann-Whitney, confirmando que los grupos analizados tenían distribuciones similares.
-Enlace al proyecto: [Enlace al Repositorio en GitHub]()
+Enlace al proyecto: [Enlace al Repositorio en GitHub](https://github.com/Hectorcidps/Portfolio_DA/tree/master/Proyecto%208%20-%20Comportamiento%20del%20usuario%20en%20una%20app%20de%20productos)
 
 ## 📫 Contacto
 * 📧 hectorcidps@gmail.com
