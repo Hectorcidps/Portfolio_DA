@@ -1,9 +1,9 @@
-# Proyecto 9 - Gimnasio Model Fitness
+# Proyecto 10 - Gimnasio Model Fitness
 
 ## Descripción: 
 El objetivo del proyecto es analizar el comportamiento de los clientes de Model Fitness para desarrollar una estrategia basada en datos que reduzca la pérdida de usuarios. Este problema es especialmente crítico en el sector de gimnasios, donde identificar clientes que han dejado de utilizar el servicio puede ser desafiante, ya que algunos simplemente disminuyen su frecuencia de visitas antes de abandonarlo por completo.
 
-Se realizó un análisis de los perfiles digitalizados de los clientes para identificar patrones de uso y desarrollar indicadores claros de pérdida, como la ausencia de visitas durante un mes. Basándonos en estos hallazgos, se diseñará una estrategia que permita identificar clientes en riesgo y proponer acciones para mejorar la retención.
+Se realizó un análisis de los perfiles digitalizados de los clientes con aprendizaje automático, implementando dos modelos regresión logística, bosque aleatorio y clusters, para identificar patrones de uso y desarrollar indicadores claros de pérdida, como la ausencia de visitas durante un mes. Basándonos en estos hallazgos, se diseñará una estrategia que permita identificar clientes en riesgo y proponer acciones para mejorar la retención.
 
 ## Características Principales: 
 
@@ -40,3 +40,5 @@ Estas estrategias por cluster podrian maximizar las campañas de marketing al ab
 * Limpieza y Preparación de Datos
 * Visualizacion de graficos
 * Entrenamiento de modelos de aprendizaje automático
+
+    * Enlace al proyecto:[Enlace](https://github.com/Hectorcidps/Portfolio_DA/blob/master/Proyecto%2010%20-%20Cadena%20de%20gimnasios%20Model%20Fitness/Gimnasio%20Model%20Fitness.ipynb)
