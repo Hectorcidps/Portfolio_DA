@@ -41,4 +41,4 @@ Estas estrategias por cluster podrian maximizar las campañas de marketing al ab
 * Visualizacion de graficos
 * Entrenamiento de modelos de aprendizaje automático
 
-    * Enlace al proyecto:[Enlace](https://github.com/Hectorcidps/Portfolio_DA/blob/master/Proyecto%2010%20-%20Cadena%20de%20gimnasios%20Model%20Fitness/Gimnasio%20Model%20Fitness.ipynb)
+### Enlace al proyecto: [Haz click aquí](https://github.com/Hectorcidps/Portfolio_DA/blob/master/Proyecto%2010%20-%20Cadena%20de%20gimnasios%20Model%20Fitness/Gimnasio%20Model%20Fitness.ipynb)
