@@ -87,5 +87,5 @@ En la agencia publicitaria Sterling & Draper solicitan automatizar el análisis 
 ## 📫 Contacto
 * 📧 hectorcidps@gmail.com
 * 📱 5531398543
-* [![Linkedin Badge](https://img.shields.io/badge/-Hector-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hector-cid-del-prado/)
+* [![Linkedin Badge](https://img.shields.io/badge/-Hector%20Cid-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hector-cid-del-prado/)
 * [![Descargar CV](https://img.shields.io/badge/Descargar%20CV-PDF-orange?style=for-the-badge)](https://github.com/Hectorcidps/Portfolio_DA/raw/master/z_documents/Data%20analyst_Hector%20Cid.pdf)
