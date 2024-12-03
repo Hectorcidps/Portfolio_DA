@@ -29,3 +29,5 @@ Finalmente, se realizó una prueba t de Student para comparar ingresos entre pla
 * Limpieza y Preparación de Datos
 * Visualización y Reporte de Datos
 * Comprobación de hipótesis mediante pruebas estadísticas 
+
+### Enlace al proyecto: [Haz click aquí](https://github.com/Hectorcidps/Portfolio_DA/blob/master/Proyecto%203%20-%20Cual%20es%20la%20mejor%20%20tarifa%3F/Cual%20es%20la%20mejor%20tarifa%3F.ipynb) 

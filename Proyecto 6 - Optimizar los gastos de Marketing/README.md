@@ -24,3 +24,5 @@ Los resultados demuestran la importancia de reasignar el presupuesto a los canal
 * Calculo de metricas relevantes 
 * Visualización y Reporte de Datos
 * Toma de decisiones basadas en datos
+
+### Enlace al proyecto: [Haz click aquí](https://github.com/Hectorcidps/Portfolio_DA/blob/master/Proyecto%206%20-%20Optimizar%20los%20gastos%20de%20Marketing/Optimizar%20gastos%20de%20marketing.ipynb)

@@ -22,3 +22,5 @@ Además, comparando dos días de la semana se logro visualizar en las gráficas 
 * Limpieza y Preparación de Datos
 * Visualización y Reporte de Datos
 * Comprobación de hipótesis mediante pruebas estadísticas 
+
+### Enlace al proyecto: [Haz click aquí](https://github.com/Hectorcidps/Portfolio_DA/blob/master/Proyecto%202%20-%20Llena%20ese%20carrito/Llena%20ese%20carrito.ipynb) 

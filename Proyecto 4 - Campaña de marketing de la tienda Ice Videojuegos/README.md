@@ -31,3 +31,5 @@ Finalmente, la correlación entre clasificaciones y ventas fue en su mayoría ne
 * Limpieza y Preparación de Datos
 * Visualización y Reporte de Datos
 * Comprobación de hipótesis mediante pruebas estadísticas 
+
+### Enlace al proyecto: [Haz click aquí](https://github.com/Hectorcidps/Portfolio_DA/blob/master/Proyecto%204%20-%20Campa%C3%B1a%20de%20marketing%20de%20la%20tienda%20Ice%20Videojuegos/Analisis%20videojuegos.ipynb)

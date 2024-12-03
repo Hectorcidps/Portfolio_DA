@@ -74,3 +74,5 @@ En conclusión, los resultados sugieren que los tres grupos (246, 247 y 248) tie
 * Pruebas A / B
 * Comprobación de hipótesis con pruebas estadísticas
 * Toma de decisiones basadas en datos
+
+### Enlace al proyecto: [Haz click aquí](https://github.com/Hectorcidps/Portfolio_DA/blob/master/Proyecto%208%20-%20Comportamiento%20del%20usuario%20en%20una%20app%20de%20productos/comportamiento%20del%20usuario.ipynb)

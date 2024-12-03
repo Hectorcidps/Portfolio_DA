@@ -32,3 +32,5 @@ En conclusión, sería recomendable continuar con la prueba, ya que esto podría
 * Calculo de ICE y RICE 
 * Visualización y Reporte de Datos
 * Toma de decisiones basadas en datos
+
+### Enlace al proyecto: [Haz click aquí](https://github.com/Hectorcidps/Portfolio_DA/blob/master/Proyecto%207%20-%20Experimento%20A%20B/Experimento%20A%20B.ipynb)
