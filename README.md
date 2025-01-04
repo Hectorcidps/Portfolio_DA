@@ -97,4 +97,4 @@ Se realizó un análisis de los perfiles digitalizados de los clientes con apren
 * 📧 hectorcidps@gmail.com
 * 📱 5531398543
 * [![Linkedin Badge](https://img.shields.io/badge/-Hector%20Cid-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hector-cid-del-prado/)
-* [![Descargar CV](https://img.shields.io/badge/Descargar%20CV-PDF-orange?style=for-the-badge)](https://github.com/Hectorcidps/Portfolio_DA/raw/master/z_documents/Data%20analyst_Hector%20Cid.pdf)
+* [![Descargar CV](https://img.shields.io/badge/Descargar%20CV-PDF-orange?style=for-the-badge)](https://github.com/Hectorcidps/Portfolio_DA/blob/master/z_documents/Analista%20de%20datos_Hector%20Cid.pdf)
