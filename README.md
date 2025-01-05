@@ -4,7 +4,7 @@
 
 🔍 Sobre mí
 
-Soy un aspirante a Analista de Datos con pasión por contar historias a través de los datos. Mi experiencia incluye Python, SQL, Excel, Pandas, y he trabajado con varios conjuntos de datos para realizar análisis significativos y conclusiones relevantes.
+Soy un aspirante a Analista de Datos con pasión por contar historias a través de los datos. Mi experiencia incluye Python, SQL, Excel, Google Sheets, Power BI y Tableau. He trabajado con varios conjuntos de datos para realizar análisis significativos, resaltando insights para tomar decisiones basadas en datos.
 
 ## 🚀 Proyectos 🚀
 
@@ -92,6 +92,25 @@ El objetivo del proyecto es analizar el comportamiento de los clientes de Model 
 Se realizó un análisis de los perfiles digitalizados de los clientes con aprendizaje automático, implementando dos modelos regresión logística, bosque aleatorio y clusters, para identificar patrones de uso y desarrollar indicadores claros de pérdida, como la ausencia de visitas durante un mes. Basándonos en estos hallazgos, se diseñará una estrategia que permita identificar clientes en riesgo y proponer acciones para mejorar la retención.
 
 * Enlace al proyecto: [Enlace al Repositorio en GitHub](https://github.com/Hectorcidps/Portfolio_DA/tree/master/Proyecto%2010%20-%20Cadena%20de%20gimnasios%20Model%20Fitness)
+
+## 11. Proyecto final 
+EL proyecto final consta de 3 partes: 
+
+### 1.Prueba A/B 
+#### Descripción:
+Has recibido una tarea analítica de una tienda en línea internacional. Tus predecesores no consiguieron completarla: lanzaron una prueba A/B y luego abandonaron (para iniciar una granja de sandías en Brasil). Solo dejaron las especificaciones técnicas y los resultados de las pruebas esperadas.
+
+### 2. Consultas en SQL
+#### Descripción:
+Te han dado una base de datos de uno de los servicios que compiten en el mercado de los libros. Contiene datos sobre libros, editoriales, autores y calificaciones de clientes y reseñas de libros. Esta información se utilizará para generar consultas sobre los libros más populares, las editoriales y autores más relevantes. 
+
+### 3. Telecomunicaciones - operadores ineficaces
+#### Descripción
+El servicio de telefonía virtual CallMeMaybe está desarrollando una nueva función que brindará a los supervisores y las supervisores información sobre los operadores menos eficaces. Se considera que un operador es ineficaz si tiene una gran cantidad de llamadas entrantes perdidas (internas y externas) y un tiempo de espera prolongado para las llamadas entrantes. Además, si se supone que un operador debe realizar llamadas salientes, un número reducido de ellas también será un signo de ineficacia.
+
+#### En este proyecto el enfoque para analizar e identificar a los operadores menos eficaces fue diseñado completamente por mí.
+
+* Enlace al proyecto: [Enlace al Repositorio en GitHub](https://github.com/Hectorcidps/Portfolio_DA/tree/master/Proyecto%20final)
 
 ## 📫 Contacto
 * 📧 hectorcidps@gmail.com
