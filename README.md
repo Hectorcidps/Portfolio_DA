@@ -116,4 +116,4 @@ El servicio de telefonía virtual CallMeMaybe está desarrollando una nueva func
 * 📧 hectorcidps@gmail.com
 * 📱 5531398543
 * [![Linkedin Badge](https://img.shields.io/badge/-Hector%20Cid-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hector-cid-del-prado/)
-* [![Descargar CV](https://img.shields.io/badge/Descargar%20CV-PDF-orange?style=for-the-badge)](https://github.com/Hectorcidps/Portfolio_DA/blob/master/z_documents/Analista_jr_Hector_cid.pdf)
+* [![Descargar CV](https://img.shields.io/badge/Descargar%20CV-PDF-orange?style=for-the-badge)](https://github.com/Hectorcidps/Portfolio_DA/raw/master/z_documents/Analista_jr_Hector_cid.pdf)
