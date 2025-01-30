@@ -15,8 +15,7 @@ Te han dado una base de datos de uno de los servicios que compiten en este merca
 ## 📈 Competencias
 * Conexión a una base de datos en PostgreSQL 
 * Extacción de datos
-* Consultas SQL
-* Consultas implementando subqueries
+* Consultas y Subqueries SQL
 
 ## Características Principales: 
 

@@ -3,6 +3,18 @@
 ## Descripción: 
 El departamento de analítica de Showz, una empresa de venta de entradas de eventos. Solicita ayuda para optimizar los gastos de marketing.
 
+## 🛠️ Tecnologías implementadas
+* Lenguajes de Programación: Python
+* Librerías de limpieza y manipulación de datos: Pandas, NumPy
+* Librerias de pruebas estadísticas: SciPy, Stats
+* Librerías de visualización de datos: Matplotlib, Seaborn 
+
+## 📈 Competencias
+* Limpieza y Preparación de Datos
+* Calculo de metricas relevantes (Tasa de conversión y retención, LTV, ASL, CAC y ROMI)
+* Visualización y Reporte de Datos
+* Toma de decisiones basadas en datos
+
 ## Características Principales:
 El proyecto constó de tres partes fundamentales. La primera fase se centró en el preprocesamiento de los datos, con un enfoque en su limpieza y preparación. La segunda fase comprendió el cálculo de métricas y la elaboración de informes. Entre las métricas más destacadas se incluyeron la tasa de conversión, la tasa de retención, el ASL, el LTV, el CAC y, finalmente, el ROMI. Por último, la tercera fase consistió en brindar recomendaciones al departamento de marketing, resaltando los hallazgos más relevantes, así como las áreas de oportunidad y los aspectos negativos identificados en este análisis. El objetivo final fue optimizar los gastos de marketing.
 
@@ -13,16 +25,5 @@ Al analizar los costos de adquisición, se observó que el canal 9 no solo gener
 Un hallazgo importante es que el canal 9 podría ser una excelente opción para concentrar la inversión de marketing, en lugar de continuar con gastos en el canal 3, que está generando pérdidas al tener un LTV inferior al CAC.
 
 Los resultados demuestran la importancia de reasignar el presupuesto a los canales que ofrecen mejores retornos, como el canal 9, y reducir la inversión en aquellos que están causando pérdidas. La empresa esta presentando perdidas aun cuando el numero de visitantes, el numero de sesiones activas y el porcentaje de tasa de conversion son altas en algunos canales.
-
-## 🛠️ Tecnologías implementadas
-* Lenguajes de Programación: Python
-* Análisis de Datos: pandas, numpy, scipy
-* Visualización de Datos: matplotlib, seaborn
-
-## 📈 Competencias
-* Limpieza y Preparación de Datos
-* Calculo de metricas relevantes 
-* Visualización y Reporte de Datos
-* Toma de decisiones basadas en datos
 
 ### Enlace al proyecto: [Haz click aquí](https://github.com/Hectorcidps/Portfolio_DA/blob/master/Proyecto%206%20-%20Optimizar%20los%20gastos%20de%20Marketing/Optimizar%20gastos%20de%20marketing.ipynb)

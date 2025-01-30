@@ -6,6 +6,14 @@
 ## Descripción: 
 En la agencia publicitaria Sterling & Draper solicitan automatizar el análisis de tendencias de videos en YouTube. A partir de un dashboard interactivo, el cual permita explorar las categorías de videos populares, su distribución por región y el desempeño destacado en Estados Unidos.
 
+## 🛠️ Tecnologías implementadas
+* Lenguajes de Programación: Python
+* Herramienta di visualización: Tableau Public
+
+## 📈 Competencias
+* Limpieza y Preparación de Datos
+* Creación de Dashboard
+
 ## Características Principales: 
 
 * Automatización: Eliminación de procesos manuales para analizar las tendencias semanales en YouTube.
@@ -15,13 +23,3 @@ En la agencia publicitaria Sterling & Draper solicitan automatizar el análisis 
 * Dashboard interactivo: Herramienta personalizada para nuevos empleados, mejorando la toma de decisiones basada en datos.
 
 Este proyecto demuestra cómo la automatización y la visualización de datos pueden transformar flujos de trabajo y optimizar estrategias de marketing.
-
-
-## 🛠️ Tecnologías implementadas
-* Lenguajes de Programación: Python
-* Herramienta di visualización: Tableau Public
-
-## 📈 Competencias
-* Limpieza y Preparación de Datos
-* Creación de Dashboard
-

@@ -3,6 +3,19 @@
 ## Descripción: 
 Una gran tienda online ha recopilado una lista de hipótesis que pueden ayudar a aumentar los ingresos. El objetivo es priorizar estas hipótesis, lanzar un test A/B y analizar los resultados. 
 
+## 🛠️ Tecnologías implementadas
+* Lenguajes de Programación: Python
+* Librerías de limpieza y manipulación de datos: Pandas, NumPy
+* Librerias de pruebas estadísticas: SciPy, Stats
+* Librerías de visualización de datos: Matplotlib, Seaborn 
+
+## 📈 Competencias
+* Limpieza y Preparación de Datos
+* Calculo de metricas relevantes (Tasa de conversión y LTV)
+* Priorización de hipótesis con frameworks ICE y RICE 
+* Visualización y Reporte de Datos
+* Toma de decisiones basadas en datos
+
 ## Características Principales: 
 La primera etapa de este proyecto consistió en priorizar nueve hipótesis sobre cómo aumentar los ingresos de una tienda en línea, aplicando los frameworks ICE y RICE. La segunda etapa comenzó tras identificar las hipótesis principales; en esta fase se realizó un análisis de prueba A/B, donde se calcularon métricas como el ingreso acumulado por grupo, el tamaño promedio de pedido por grupo, la tasa de conversión de cada grupo y la significancia estadística entre los grupos, utilizando tanto datos brutos como datos filtrados (eliminando valores atípicos que pudieran afectar el análisis). Finalmente, se tomó una decisión fundamentada en los datos obtenidos de la prueba.
 
@@ -19,18 +32,5 @@ Para evaluar la significancia estadística, se utilizó la prueba U de Mann-Whit
 Con los datos filtrados (eliminando valores atípicos), el grupo B mostró una ganancia relativa del 17% en la tasa de conversión frente al grupo A, pero al analizar el tamaño promedio de pedidos, el grupo B obtuvo una diferencia relativa del 2.8% menor, lo que indica que esta variación no afecta significativamente el tamaño promedio de los dos grupos.
 
 En conclusión, sería recomendable continuar con la prueba, ya que esto podría ayudar a identificar si el grupo B consolida su desempeño en ambas métricas (conversión y tamaño de pedido).
-
-## 🛠️ Tecnologías implementadas
-* Lenguajes de Programación: Python
-* Análisis de Datos: pandas, numpy, scipy
-* Comprobación de hipótesis: stats
-* Visualización de Datos: matplotlib, seaborn
-
-## 📈 Competencias
-* Limpieza y Preparación de Datos
-* Calculo de metricas relevantes
-* Calculo de ICE y RICE 
-* Visualización y Reporte de Datos
-* Toma de decisiones basadas en datos
 
 ### Enlace al proyecto: [Haz click aquí](https://github.com/Hectorcidps/Portfolio_DA/blob/master/Proyecto%207%20-%20Experimento%20A%20B/Experimento%20A%20B.ipynb)

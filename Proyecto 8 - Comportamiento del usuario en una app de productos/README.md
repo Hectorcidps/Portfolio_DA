@@ -3,6 +3,19 @@
 ## Descripción: 
 Este proyecto analizó más de 244,000 eventos para entender el flujo de interacción de los usuarios y evaluar un experimento A/A/B. Se construyó un embudo de conversión, identificando etapas clave de pérdida de usuarios y oportunidades de optimización. Además, se aplicaron pruebas estadísticas como el puntaje Z y la prueba U de Mann-Whitney, confirmando que los grupos analizados tenían distribuciones similares.
 
+## 🛠️ Tecnologías implementadas
+* Lenguajes de Programación: Python
+* Librerías de limpieza y manipulación de datos: Pandas, NumPy
+* Librerias de pruebas estadísticas: SciPy, Stats
+* Librerías de visualización de datos: Matplotlib, Seaborn 
+
+## 📈 Competencias
+* Limpieza y Preparación de Datos
+* Visualización y Reporte de Datos
+* Funnel de eventos
+* Pruebas A / B
+* Comprobación de hipótesis con pruebas estadísticas
+* Toma de decisiones basadas en datos
 
 ## Características Principales: 
 
@@ -60,19 +73,5 @@ Asimismo, se compararon los dos grupos de control con el grupo experimental apli
 Para finalizar, se calculó la corrección de Bonferroni, que ajusta el nivel de significancia original (α = 0.05) a 0.0167 al dividirlo entre el número de comparaciones (3). Con este nivel ajustado, cualquier valor p menor a 0.0167 indicaría una diferencia estadísticamente significativa entre los grupos. Sin embargo, al observar los resultados de las comparaciones, los valores p obtenidos son superiores al α ajustado, lo que sugiere que no hay suficiente evidencia para rechazar la hipótesis nula en ninguna de las comparaciones.
 
 En conclusión, los resultados sugieren que los tres grupos (246, 247 y 248) tienen distribuciones muy similares en cuanto al número de usuarios únicos que realizaron cada evento, lo cual es consistente con una correcta asignación de los grupos en el experimento.
-
-## 🛠️ Tecnologías implementadas
-* Lenguajes de Programación: Python
-* Análisis de Datos: pandas, numpy, scipy
-* Comprobación de hipótesis: stats
-* Visualización de Datos: matplotlib, seaborn
-
-## 📈 Competencias
-* Limpieza y Preparación de Datos
-* Visualización y Reporte de Datos
-* Funnel de eventos
-* Pruebas A / B
-* Comprobación de hipótesis con pruebas estadísticas
-* Toma de decisiones basadas en datos
 
 ### Enlace al proyecto: [Haz click aquí](https://github.com/Hectorcidps/Portfolio_DA/blob/master/Proyecto%208%20-%20Comportamiento%20del%20usuario%20en%20una%20app%20de%20productos/comportamiento%20del%20usuario.ipynb)

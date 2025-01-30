@@ -13,7 +13,7 @@ Los datasets contienen información sobre el uso del servicio de telefonía virt
 
 ## 📈 Competencias
 * Limpieza y Preparación de Datos
-* Visualizacion de graficos
+* Visualizacion de gráficos
 * Análisis de embudo de eventos
 * Pruebas A/B
 * Comprobación de hipótesis 
