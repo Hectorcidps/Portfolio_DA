@@ -14,6 +14,19 @@ Has recibido una tarea analítica de una tienda en línea internacional. Tus pre
 * Resultado esperado: dentro de los 14 días posteriores a la inscripción, los usuarios mostrarán una mejor conversión en vistas de la página del producto (el evento product_page), instancias de agregar artículos al carrito de compras (product_card) y compras (purchase). En cada etapa del embudo product_page → product_card → purchase, habrá al menos un 10% de aumento.
 * Número previsto de participantes de la prueba: 6 000
 
+## 🛠️ Tecnologías implementadas
+* Lenguajes de Programación: Python
+* Librería de limpieza y manipulación de datos: Pandas, NumPy, Math, Datetime
+* Librerias de visualización: Matplotlib, Seaborn
+* Librerias de pruebas estadísticas: SciPy, Stats
+
+## 📈 Competencias
+* Limpieza y Preparación de Datos
+* Visualizacion de graficos
+* Análisis de embudo de eventos
+* Pruebas A/B
+* Comprobación de hipótesis 
+
 ## Características Principales: 
 
 * Análisis exploratorio de los datos 
@@ -32,18 +45,5 @@ También se encontró que 441 usuarios estaban presentes en ambas muestras. Adem
 Asimismo, se analizó la distribución de los datos respecto a las compras realizadas por usuario. En este caso, también se identificaron muchos valores atípicos. Algo notable es que un gran número de usuarios no realizó compras; durante el preprocesamiento, se encontró que había 363,447 usuarios en esta categoría, lo cual se refleja en la distribución. Sin embargo, entre los usuarios que realizaron compras, los valores son dispersos. La media del gasto por usuario es de 24.53 USD. En los percentiles, se encontró que el 10% de los usuarios gastó 39.93 USD, el 5% gastó 114.97 USD y solo el 1% gastó 514.97 USD. El gasto máximo registrado fue de 1,609.94 USD.
 
 Al realizar la prueba A/B, se calculó la tasa de conversión para ambas muestras. Los resultados no fueron los esperados, ya que en las 4 etapas no se alcanzó la meta establecida (solo la etapa de product_cart se acerco obteniendo un 9.65%), que consistía en un aumento de al menos el 10% en cada etapa del embudo. Sin embargo, el número de usuarios participantes sí cumplió con los objetivos, ya que en ambos grupos hubo más de 6,000 participantes. Finalmente, al calcular la significancia estadística de la distribución de las muestras, con un nivel de significancia del 0.05, se obtuvo un valor p de 0.0006. Esto indica que se debe rechazar la hipótesis nula, lo que confirma que existe una diferencia significativa entre las muestras.
-
-## 🛠️ Tecnologías implementadas
-* Lenguajes de Programación: Python
-* Librería de limpieza y manipulación de datos: Pandas
-* Librerias de visualización: Matplotlib, Seaborn
-* Librerias de pruebas estadísticas: SciPy, Stats
-
-## 📈 Competencias
-* Limpieza y Preparación de Datos
-* Visualizacion de graficos
-* Análisis de embudo de eventos
-* Pruebas A/B
-* Comprobación de hipótesis 
 
 ### Enlace al proyecto: [Haz click aquí](https://github.com/Hectorcidps/Portfolio_DA/blob/master/Proyecto%20final/Proyecto%20Test%20A%20B/Test%20A%20B.ipynb)

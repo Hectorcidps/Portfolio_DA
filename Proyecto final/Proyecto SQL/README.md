@@ -5,6 +5,19 @@ El coronavirus tomó al mundo entero por sorpresa, cambiando la rutina diaria de
 
 Te han dado una base de datos de uno de los servicios que compiten en este mercado. Contiene datos sobre libros, editoriales, autores y calificaciones de clientes y reseñas de libros. Esta información se utilizará para generar consultas sobre los libros más populares, las editoriales y autores más relevantes. 
 
+## 🛠️ Tecnologías implementadas
+* Lenguajes de Programación: SQL y Python
+* Preparación de los datos: SQL 
+* DBMS: PostgreSQL
+* Librería de manipulación de datos: Pandas
+
+
+## 📈 Competencias
+* Conexión a una base de datos en PostgreSQL 
+* Extacción de datos
+* Consultas SQL
+* Consultas implementando subqueries
+
 ## Características Principales: 
 
 * Conexión a una base de datos en PostgreSQL 
@@ -27,18 +40,5 @@ Consulta 3: La editorial con mayor número de libros publicados con mas de 50 p�
 Consulta 4: La autora con la mas alta calificación promedio por libro es Diana Gabaldon con un promedio de 4.3 y un total de 50 calificaciones recibidas, sin embargo, J.K. Rowling y Mary GrandPré cuentan con un mayor numero de calificaciones recibidas y estan muy cerca en cuanto a promedio de la autora Diana.
 
 Consulta 5: Por último se cálculo el promedio de reseñas de texto entre los usuarios que han calificado mas de 50 libros y esto dio como resultado 24.33 reseñas de texto por usuario.
-
-## 🛠️ Tecnologías implementadas
-* Lenguajes de Programación: SQL
-* Preparación de los datos: SQL 
-* DBMS: PostgreSQL
-* Librería de manipulación de datos: Pandas
-
-## 📈 Competencias
-* Conexión a una base de datos en PostgreSQL 
-* Extacción de datos
-* Consultas SQL
-* Consultas implementando subqueries
-
 
 ### Enlace al proyecto: [Haz click aquí](https://github.com/Hectorcidps/Portfolio_DA/blob/master/Proyecto%20final/Proyecto%20SQL/SQL.ipynb)

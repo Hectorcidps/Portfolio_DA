@@ -5,6 +5,19 @@ El servicio de telefonía virtual CallMeMaybe está desarrollando una nueva func
 
 Los datasets contienen información sobre el uso del servicio de telefonía virtual CallMeMaybe. Sus clientes son organizaciones que necesitan distribuir gran cantidad de llamadas entrantes entre varios operadores, o realizar llamadas salientes a través de sus operadores. Los operadores también pueden realizar llamadas internas para comunicarse entre ellos. Estas llamadas se realizan a través de la red de CallMeMaybe.
 
+## 🛠️ Tecnologías implementadas
+* Lenguajes de Programación: Python
+* Librería de limpieza y manipulación de datos: Pandas, NumPy, Math, Datetime
+* Librerias de visualización: Matplotlib, Seaborn
+* Librerias de pruebas estadísticas: SciPy, Stats
+
+## 📈 Competencias
+* Limpieza y Preparación de Datos
+* Visualizacion de graficos
+* Análisis de embudo de eventos
+* Pruebas A/B
+* Comprobación de hipótesis 
+
 ## Características Principales: 
 
 ### El enfoque para analizar e identificar a los operadores menos eficaces fue diseñado completamente por mí, implementando las siguientes acciones:
@@ -46,18 +59,5 @@ El análisis exploratorio reveló patrones interesantes en la distribución de l
 Para medir la ineficiencia operativa, se desarrolló un índice considerando tres métricas clave: el promedio de llamadas perdidas, el tiempo de espera y el número de llamadas salientes por operador. Este análisis destacó al operador con el mayor índice de ineficacia, quien registró un 2% de llamadas perdidas, un promedio de 17 minutos de espera y un bajo porcentaje de llamadas salientes. Con base en percentiles, se segmentaron los operadores en tres grupos. El Grupo A, con un 31% de ineficiencia y un tiempo de espera promedio de 457 minutos, mostró los peores resultados. El Grupo C, en cambio, fue el más eficiente, con solo un 20% de ineficiencia y un tiempo de espera promedio de 137 minutos.
 
 Para confirmar estas diferencias, se realizaron pruebas estadísticas. La prueba de Kruskal-Wallis indicó diferencias significativas en los tiempos de espera promedio entre los grupos. Además, la prueba U de Mann-Whitney confirmó diferencias estadísticamente significativas entre operadores más y menos eficaces en términos de tiempo de espera. Una evaluación adicional de las llamadas perdidas, utilizando percentiles para segmentarlas, evidenció también una distribución no normal. La prueba U de Mann-Whitney validó que existe una diferencia significativa en el tiempo promedio de los operadores con más y menos llamadas perdidas.
-
-## 🛠️ Tecnologías implementadas
-* Lenguajes de Programación: Python
-* Librería de limpieza y manipulación de datos: Pandas
-* Librerias de visualización: Matplotlib, Seaborn
-* Librerias de pruebas estadísticas: SciPy, Stats
-
-## 📈 Competencias
-* Limpieza y Preparación de Datos
-* Visualizacion de graficos
-* Análisis de embudo de eventos
-* Pruebas A/B
-* Comprobación de hipótesis 
 
 ### Enlace al proyecto: [Haz click aquí](https://github.com/Hectorcidps/Portfolio_DA/blob/master/Proyecto%20final/Proyecto%20Telecomunicaciones/Telecomunicaciones.ipynb)
