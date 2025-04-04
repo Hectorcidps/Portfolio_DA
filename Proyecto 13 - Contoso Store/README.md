@@ -2,7 +2,7 @@
 
 ## Enlace al Dashboard en [Power BI](https://app.powerbi.com/groups/me/reports/902d53d9-0a51-4f93-b926-0485cde5fbc1/261fe8a15aaa949e9c89?experience=power-bi)
 
-## Dashboard en archivo [PBIX]()
+## Dashboard en archivo en [Drive](https://drive.google.com/drive/folders/1FSIp_yzk69fLpcz61zsxwDLRVtKVGUuH?usp=sharing)
 
 ## Dashboard en [imagen]()
 
