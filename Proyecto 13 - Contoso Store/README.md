@@ -4,9 +4,9 @@
 
 ## Dashboard en archivo en [Drive](https://drive.google.com/drive/folders/1FSIp_yzk69fLpcz61zsxwDLRVtKVGUuH?usp=sharing)
 
-## Dashboard en [imagen](https://github.com/Hectorcidps/Portfolio_DA/tree/master/Proyecto%2013%20-%20Contoso%20Store/Assets/Dashboard)
+## Dashboard en [imagen](https://github.com/Hectorcidps/Portfolio_DA/tree/master/Proyecto%2013%20-%20Contoso%20Store/Assets/Dashboard/Dashboard%20Contoso.pdf)
 
-## Modelado de [datos](https://github.com/Hectorcidps/Portfolio_DA/tree/master/Proyecto%2013%20-%20Contoso%20Store/Assets/Modelado)
+## Modelado de [datos](https://github.com/Hectorcidps/Portfolio_DA/blob/master/Proyecto%2013%20-%20Contoso%20Store/Assets/Modelado/Modelados.pdf)
 
 ## Descripción: 
 Este dashboard en Power BI permite visualizar y comparar los ingresos de la tienda "Contoso" que vende productos tecnológicos (celulares, computadoras, cámaras, audio, entre otros) en diferentes continentes. Se presenta un análisis de ingresos anuales de 2007 a 2009, destacando tendencias y variaciones.
