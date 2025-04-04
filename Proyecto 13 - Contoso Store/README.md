@@ -1,6 +1,12 @@
 # Proyecto 13 - Contoso Store
 
-## Enlace al Dashboard en [Power BI]()
+## Enlace al Dashboard en [Power BI](https://app.powerbi.com/groups/me/reports/902d53d9-0a51-4f93-b926-0485cde5fbc1/261fe8a15aaa949e9c89?experience=power-bi)
+
+## Dashboard en archivo [PBIX]()
+
+## Dashboard en [imagen]()
+
+## Modelado de [datos]()
 
 ## Descripción: 
 Este dashboard en Power BI permite visualizar y comparar los ingresos de la tienda "Contoso" que vende productos tecnológicos (celulares, computadoras, cámaras, audio, entre otros) en diferentes continentes. Se presenta un análisis de ingresos anuales de 2007 a 2009, destacando tendencias y variaciones.
@@ -93,7 +99,3 @@ Top 3 países con mayores ingresos:
 * 2008: Se registraron pérdidas, con un total de $2,449,338,302 ($478,589,639 menos que en 2007). Los meses con mayores pérdidas fueron mayo, junio y octubre.
 
 * 2009: Los ingresos continuaron disminuyendo, alcanzando $2,375,176,487, lo que representa $74,161,815 menos que en 2008. A diferencia de 2008, en mayo, junio y octubre hubo un repunte, mientras que el resto de los meses mostraron pérdidas.
-
-
-
-### Enlace al proyecto: [Haz click aquí]()
