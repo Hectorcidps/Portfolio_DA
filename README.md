@@ -47,7 +47,7 @@ El cliente es un operador de telecomunicaciones llamado Megaline. La empresa ofr
 * Librería de limpieza y manipulación de datos: Pandas
 * Librerías visualización de datos: Matplotlib, Seaborn
 
-Enlace al proyecto en [GitHub](https://github.com/Hectorcidps/Portfolio_DA/tree/master/Proyecto%203%20-%20Cu%C3%A1l%20es%20la%20mejor%20tarifa%3F)
+Enlace al proyecto en [GitHub](https://github.com/Hectorcidps/Portfolio_DA/tree/master/Proyecto%203%20-%20Cual%20es%20la%20mejor%20%20tarifa%3F)
 
 
 ## 4. Campaña de marketing de la tienda Ice VideoJuegos 🎮🎮
